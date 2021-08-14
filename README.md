@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Faiz Mohammad
-
-![Since I'm not so good at Dynamic Programming, I might not remember my last encounter with you😁😁](https://github.com/faizm4765/faizm4765/blob/maihttps://github.com/faizm4765/faizm4765/blob/main/Learn.%20Code.%20Grow..pngn/Learn.%20Code.%20Grow.png)
+Since I'm not so good at Dynamic Programming, I might not remember my last encounter with you😁😁
+![link](https://github.com/faizm4765/faizm4765/blob/maihttps://github.com/faizm4765/faizm4765/blob/main/Learn.%20Code.%20Grow..pngn/Learn.%20Code.%20Grow.png)
 
 I am a life long student who just enjoys coding stuff, be it DS algos or web dev. While doing this, at the same I try to share all that I learn to other folks in this community through my LinkedIn posts and Youtube channel. Always ready to discuss code and food!!
 
