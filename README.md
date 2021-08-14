@@ -1,10 +1,18 @@
 ### Hi there 👋, My name is Faiz Mohammad
 
+*Since I'm not so good at Dynamic Programming, I might not remember my last encounter with you😁😜*
+
 ![Learn. Think. Grow.](https://github.com/faizm4765/faizm4765/blob/main/Learn.%20Code.%20Grow..png)
 
 I am a life long student who just enjoys coding stuff, be it DS algos or web dev. While doing this, at the same I try to share all that I learn to other folks in this community through my LinkedIn posts and Youtube channel. Always ready to discuss code and food!!
 
-Skills: C++ / JAVA / PYTHON / ALGORITHMS / REACT / JS / HTML / CSS 
+## Skills: 
+  👨‍ C++  
+  🔰 JAVA  
+  🐍 PYTHON  
+  🍕 ALGORITHMS  
+  📱 REACT 
+  😜 HTML/ CSS/ JS 
 
 - 🔭 I’m currently working on building some exiting stuff using what I have learnt till now 
 - 🌱 I’m currently learning how to live life at the full potential 
