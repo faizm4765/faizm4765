@@ -10,7 +10,7 @@ I am a life long student who just enjoys coding stuff, be it DS algos or web dev
   👨‍ C++  
   🔰 JAVA  
   🐍 PYTHON  
-  🍕 DATA STRUCTURES  
+  🍕 DATA STRUCTURES   
   📱 REACT 
   😜 HTML/ CSS/ JS 
 
