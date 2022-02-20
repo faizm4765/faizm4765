@@ -14,9 +14,9 @@ I am a life long student who just enjoys coding stuff, be it DS algos or web dev
   📱 REACT 
   😜 HTML/ CSS/ JS 
 
-- 🔭 I’m currently working on building some exiting stuff using what I have learnt till now 
-- 🌱 I’m currently learning how to live life at the full potential 
-- 📫 How to reach me: https://www.linkedin.com/in/faiz-mohammad-779471155/ 
+- 🔭 I’m currently working on building some exciting stuff using what I have learnt till now 
+- 🌱 I’m currently also learning how to live life at the full potential 
+- 📫 How to reach me: https://www.linkedin.com/in/faiz-mohammad/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faizm4765)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/faiz-mohammad-779471155//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/faizm4765)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCi5awhlNW0IWpMunZxalU_A/videos)  
