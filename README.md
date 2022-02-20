@@ -23,8 +23,6 @@ I am a life long student who just enjoys coding stuff, be it DS algos or web dev
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizm4765)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faizm4765)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=faizm4765)  
 
 ![Profile views](https://gpvc.arturio.dev/faizm4765)  
