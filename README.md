@@ -7,9 +7,9 @@
 I am a life long student who just enjoys coding stuff, be it DS algos or web dev. While doing this, at the same I try to share all that I learn to other folks in this community through my LinkedIn posts and Youtube channel. Always ready to discuss code and food!!
 
 ## Skills: 
-  👨‍ C++  
-  🔰 JAVA  
-  🐍 PYTHON  
+  👨‍ Go  
+  🔰 K8s
+  🐍 C++  
   🍕 DATA STRUCTURES   
   📱 REACT 
   😜 HTML/ CSS/ JS 
